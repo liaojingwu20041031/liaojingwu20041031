@@ -1,12 +1,12 @@
 <div align="center">
 
-![Liao Jingwu — Robotics, AI and Full-stack Engineering](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:1D4ED8,100:06B6D4&height=230&section=header&text=Liao%20Jingwu&fontSize=54&fontColor=F8FAFC&fontAlignY=36&desc=BUILDING%20INTELLIGENT%20SYSTEMS%20FROM%20SILICON%20TO%20AGENTS&descSize=14&descAlignY=57&animation=fadeIn)
+![Liao Jingwu — Robotics, AI and Full-stack Engineering](https://capsule-render.vercel.app/api?type=waving&color=0:E0F2FE,48:DBEAFE,100:ECFEFF&height=230&section=header&text=Liao%20Jingwu&fontSize=54&fontColor=0F172A&fontAlignY=36&desc=BUILDING%20INTELLIGENT%20SYSTEMS%20FROM%20SILICON%20TO%20AGENTS&descSize=14&descAlignY=57&descColor=334155&animation=fadeIn)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&multiline=false&repeat=true&width=820&height=45&lines=Robotics+%C3%97+Embodied+AI+Engineer;ROS+2+%7C+STM32+%7C+Jetson+%7C+Computer+Vision;AI+Agents+%7C+Multimodal+Systems+%7C+Full-stack;From+hardware+signals+to+intelligent+action)](https://git.io/typing-svg)
 
-[![Profile views](https://komarev.com/ghpvc/?username=liaojingwu20041031&label=PROFILE+VIEWS&color=0ea5e9&style=for-the-badge)](https://github.com/antonkomarev/github-profile-views-counter)
-[![GitHub followers](https://img.shields.io/github/followers/liaojingwu20041031?label=FOLLOWERS&style=for-the-badge&color=2563eb&labelColor=0f172a)](https://github.com/liaojingwu20041031?tab=followers)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-VISIT-06b6d4?style=for-the-badge&labelColor=0f172a)](https://liaojingwu20041031.github.io)
+[![Profile views](https://komarev.com/ghpvc/?username=liaojingwu20041031&label=PROFILE+VIEWS&color=60a5fa&style=for-the-badge)](https://github.com/antonkomarev/github-profile-views-counter)
+[![GitHub followers](https://img.shields.io/github/followers/liaojingwu20041031?label=FOLLOWERS&style=for-the-badge&color=38bdf8&labelColor=2563eb)](https://github.com/liaojingwu20041031?tab=followers)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-VISIT-22d3ee?style=for-the-badge&labelColor=2563eb)](https://liaojingwu20041031.github.io)
 
 </div>
 
@@ -20,32 +20,18 @@
 
 ## Engineering focus
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>🤖 Robotics Systems</h3>
-      ROS 2 · Nav2 · SLAM Toolbox<br>
-      TF / EKF · LiDAR · ZED 2i<br>
-      Jetson · CANopen · STM32
-    </td>
-    <td width="33%" valign="top">
-      <h3>🧠 AI Engineering</h3>
-      YOLO · OpenCV · TensorRT<br>
-      Multimodal LLM · Qwen<br>
-      AI Agent · Tool / MCP Design
-    </td>
-    <td width="33%" valign="top">
-      <h3>⚙️ Product Delivery</h3>
-      Python · C / C++ · TypeScript<br>
-      Linux · Docker · GitHub Actions<br>
-      Mobile UI · Godot · Documentation
-    </td>
-  </tr>
-</table>
+> **01 / ROBOTICS & EMBEDDED**<br>
+> ROS 2 · Nav2 · SLAM Toolbox · TF / EKF · LiDAR · ZED 2i · Jetson · CANopen · STM32
+
+> **02 / AI SYSTEMS**<br>
+> YOLO · OpenCV · TensorRT · Multimodal LLM · Qwen · AI Agent · Tool / MCP Design
+
+> **03 / PRODUCT ENGINEERING**<br>
+> Python · C / C++ · TypeScript · Linux · Docker · GitHub Actions · Mobile UI · Godot
 
 <div align="center">
 
-![Core stack](https://skillicons.dev/icons?i=python,cpp,c,ros,pytorch,opencv,linux,docker,git,githubactions,ts,react,arduino,cmake,powershell,godot&perline=8)
+<img height="42" alt="Python, C++, C, ROS, PyTorch, OpenCV, Linux, Docker, TypeScript, React, Arduino and Godot" src="https://skillicons.dev/icons?i=python,cpp,c,ros,pytorch,opencv,linux,docker,ts,react,arduino,godot&perline=12">
 
 </div>
 
@@ -64,11 +50,15 @@
 
 <div align="center">
 
-![GitHub profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liaojingwu20041031&theme=github_dark)
+<img width="100%" alt="GitHub repositories, stars, followers, yearly contributions and language mix" src="assets/github-signal-light.svg">
 
-![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=liaojingwu20041031&bg_color=0D1117&color=38BDF8&line=2563EB&point=22D3EE&area=true&area_color=1D4ED8&hide_border=true&custom_title=Contribution%20Activity)
+<br>
 
-![Contribution snake](https://raw.githubusercontent.com/liaojingwu20041031/liaojingwu20041031/output/github-contribution-grid-snake-dark.svg)
+<sub><strong>CONTRIBUTION FLOW</strong> · generated daily from the contribution grid</sub>
+
+<br><br>
+
+<img width="82%" alt="Animated contribution snake in a soft blue palette" src="assets/contribution-snake-light.svg">
 
 </div>
 
@@ -79,8 +69,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Explore_my_work-181717?style=for-the-badge&logo=github)](https://github.com/liaojingwu20041031?tab=repositories)
 [![Website](https://img.shields.io/badge/Website-Open_portfolio-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://liaojingwu20041031.github.io)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,55:1D4ED8,100:0F172A&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:ECFEFF,52:DBEAFE,100:E0F2FE&height=120&section=footer)
 
-<sub>Visual components powered by open-source projects: capsule-render · readme-typing-svg · skillicons · github-profile-summary-cards · github-readme-activity-graph · snk</sub>
+<sub>Profile visuals: capsule-render · readme-typing-svg · skillicons · repository-owned GitHub metrics · Platane/snk</sub>
 
 </div>
