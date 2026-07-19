@@ -1,4 +1,4 @@
-name: Refresh profile metrics
+name: 更新主页数据
 
 on:
   schedule:
@@ -18,32 +18,32 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: Check out profile repository
+      - name: 检出主页仓库
         uses: actions/checkout@v4
 
-      - name: Generate a refined contribution animation
+      - name: 生成浅色贡献动画
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             assets/contribution-snake-light.svg?color_snake=#2563eb&color_dots=#f8fafc,#e0f2fe,#bae6fd,#7dd3fc,#38bdf8
 
-      - name: Render the light GitHub signal panel
+      - name: 生成浅色 GitHub 数据面板
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           PROFILE_USERNAME: ${{ github.repository_owner }}
         run: python scripts/generate_profile_metrics.py
 
-      - name: Commit refreshed panels when data changed
+      - name: 数据变化时提交更新
         shell: bash
         run: |
           if git diff --quiet -- assets; then
-            echo "Profile metrics are already current."
+            echo "主页数据已是最新状态。"
             exit 0
           fi
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add assets
-          git commit -m "chore: refresh profile metrics"
+          git commit -m "chore: 更新主页数据"
           git push
