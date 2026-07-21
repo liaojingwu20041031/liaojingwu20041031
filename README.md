@@ -4,7 +4,7 @@
 
 [![动态技术方向](https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=600&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&multiline=false&repeat=true&width=820&height=45&lines=%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%B3%BB%E7%BB%9F+%C3%97+%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD+%C3%97+AI+Agent;ROS+2+%7C+STM32+%7C+Jetson+%7C+%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89;%E5%A4%9A%E6%A8%A1%E6%80%81%E7%B3%BB%E7%BB%9F+%7C+AI+Agent+%7C+%E5%85%A8%E6%A0%88%E4%BA%A4%E4%BB%98;%E4%BB%8E%E7%A1%AC%E4%BB%B6%E4%BF%A1%E5%8F%B7%E5%88%B0%E6%99%BA%E8%83%BD%E8%A1%8C%E5%8A%A8)](https://git.io/typing-svg)
 
-[![访问量](https://komarev.com/ghpvc/?username=liaojingwu20041031&label=%E8%AE%BF%E9%97%AE%E9%87%8F&color=60a5fa&style=for-the-badge)](https://github.com/antonkomarev/github-profile-views-counter)
+[![访问量](https://komarev.com/ghpvc/?username=liaojingwu20041031&label=%C2%A0%C2%A0%E8%AE%BF%E9%97%AE%E9%87%8F%C2%A0%C2%A0&color=60a5fa&style=for-the-badge)](https://github.com/antonkomarev/github-profile-views-counter)
 [![关注者](https://img.shields.io/github/followers/liaojingwu20041031?label=%E5%85%B3%E6%B3%A8%E8%80%85&style=for-the-badge&color=38bdf8&labelColor=2563eb)](https://github.com/liaojingwu20041031?tab=followers)
 [![个人主页](https://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5-%E8%AE%BF%E9%97%AE-22d3ee?style=for-the-badge&labelColor=2563eb)](https://liaojingwu20041031.github.io)
 
